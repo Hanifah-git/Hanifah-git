@@ -3,7 +3,7 @@
 - 🌱 Currently learning to code, drive, and navigate the cloud, all while practicing my German! 
 - 📫 Email: maythukyawtint177@gmail.com
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I love reading about Astronomy while sipping coffee.
+- ⚡ Fun fact: Love reading about Astronomy while sipping coffee.
 
 <!---
 Hanifah-git/Hanifah-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
